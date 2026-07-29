@@ -3,7 +3,7 @@ Arch Linux based opinionated setup for GNU/Linux
 
 ## Core components
 
-* (https://wiki.archlinux.org/title/GRUB)[Grab] -- boot loader.
+* [Grab](https://wiki.archlinux.org/title/GRUB) -- boot loader.
 * {{https://wiki.archlinux.org/title/Kernel|Main Arch Linux kernel}} -- a generic Linux kernel.
 * {{https://wiki.archlinux.org/title/Systemd|SystemD}} -- suite of basic building blocks for a Linux system.
 * {{https://wiki.archlinux.org/title/SDDM|SDDM}} -- display manager.
