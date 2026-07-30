@@ -105,7 +105,7 @@ Arch Linux based opinionated setup for GNU/Linux
 
 ## Theming
 
-* [Boot animation]() -- custom made astolfo-glow from {{https://github.com/Skrepysh/arch-glow-plymouth|arch-glow}}.
+* [Boot animation]() -- custom made astolfo-glow from [arch-glow](https://github.com/Skrepysh/arch-glow-plymouth).
 * [NeoVim](https://github.com/folke/tokyonight.nvim) -- Tokyo Night.
 * [GTK](https://github.com/Fausto-Korpsvart/Tokyonight-GTK-Theme) -- Tokyo Night.
 * [QT](https://github.com/0xsch1zo/Kvantum-Tokyo-Night) -- Tokyo Night.
